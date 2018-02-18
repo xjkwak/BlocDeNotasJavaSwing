@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MiBlocDeNotasJavaSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiBlocDeNotasJavaSwing_jar</output-path>
+    <root id="archive" name="MiBlocDeNotasJavaSwing.jar">
+      <element id="module-output" name="MiBlocDeNotasJavaSwing" />
+    </root>
+  </artifact>
+</component>
